@@ -21,3 +21,4 @@ C:\Users\wilmer.ramirez\source\repos\CoopSoft\CoopSoft\obj\Debug\Inventario.baml
 C:\Users\wilmer.ramirez\source\repos\CoopSoft\CoopSoft\obj\Debug\Usuario.g.cs
 C:\Users\wilmer.ramirez\source\repos\CoopSoft\CoopSoft\obj\Debug\CoopSoft_MarkupCompile.lref
 C:\Users\wilmer.ramirez\source\repos\CoopSoft\CoopSoft\obj\Debug\Usuario.baml
+C:\Users\wilmer.ramirez\source\repos\CoopSoft\CoopSoft\obj\Debug\App.baml

@@ -120,5 +120,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\fondo_luna.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\font.PNG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
